@@ -1,6 +1,6 @@
 # Machine-Learning---Uni-Project
 
-### **Introduction**
+## **Introduction**
 
 The **individual project** for the course **Lab of Information Systems and Analytics** consists of applying Machine Learning to perform a predictive task starting from a given dataset to be chosen out of 3 different datasets. 
 
